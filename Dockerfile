@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.2
+FROM alpine:3.7
 MAINTAINER Larry Ludlow <lludlow@gmail.com>
 
 ENV OAUTH2_PROXY_VERSION 2.2.0.linux-amd64.go1.8.1
